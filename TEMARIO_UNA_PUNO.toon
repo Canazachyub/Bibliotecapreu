@@ -1,0 +1,464 @@
+# ═══════════════════════════════════════════════════════════════════════════════
+# TEMARIO EXAMEN DE ADMISIÓN - UNIVERSIDAD NACIONAL DEL ALTIPLANO PUNO
+# Área: Letras, Humanidades y Ciencias
+# ═══════════════════════════════════════════════════════════════════════════════
+
+TEMARIO:
+  institucion: Universidad Nacional del Altiplano Puno
+  area: Letras, Humanidades y Ciencias
+  ciclo: Preparación Integral
+
+  # ─────────────────────────────────────────────────────────────────────────────
+  # RAZONAMIENTO
+  # ─────────────────────────────────────────────────────────────────────────────
+
+  RAZONAMIENTO_VERBAL[10]{tema,subtemas}:
+    Etimología,"Raíces grecolatinas, prefijos, infijos, sufijos"
+    Proceso formativo de palabras,"Derivación, composición, parasíntesis, onomatopeya, gentilicios, colectivos"
+    Relaciones semánticas,"Sinónimos, antónimos, parónimos, homónimos, homógrafos, homófonos, monosémicos, polisémicos"
+    Vicios de dicción,"Barbarismos, monotonía, anfibología, redundancia, cacofonía, solecismo"
+    Analogía,"Tipos, clases, criterios de resolución"
+    Oraciones incompletas,"Pautas de resolución, eliminación de oraciones"
+    Conectores lógicos,"Conjunciones, signos de puntuación, aplicación"
+    Término excluido,"Inclusión de términos, implicación de términos"
+    Plan de redacción,"Ordenamiento textual, criterios de organización"
+    Comprensión de textos,"Tema, tema central, idea principal, título, niveles de comprensión, inferencia, incompatibilidad, extrapolación"
+
+  RAZONAMIENTO_MATEMATICO[11]{tema,subtemas}:
+    Razonamiento lógico,"Orden de información, tablas de verdad, proposiciones"
+    Sistema de numeración,"Conversiones, descomposición polinómica, mezclas"
+    Razonamiento inductivo-deductivo,"Patrones, secuencias lógicas"
+    Planteo de ecuaciones,"Cuatro operaciones, traducción matemática"
+    Edades y móviles,"Problemas de edades, móviles, cronometría"
+    Operadores matemáticos,"Operadores binarios, definiciones operacionales"
+    Sucesiones y series,"Distribuciones, analogías numéricas, sumatorias"
+    Conteo de figuras,"Trazado, segmentos, triángulos, cuadriláteros"
+    Máximos y mínimos,"Poleas, engranajes, optimización"
+    Áreas sombreadas,"Perímetros, figuras geométricas compuestas"
+    Criptoaritmética,"Análisis combinatorio, permutaciones, variaciones"
+
+  # ─────────────────────────────────────────────────────────────────────────────
+  # MATEMÁTICAS
+  # ─────────────────────────────────────────────────────────────────────────────
+
+  ARITMETICA[9]{tema,subtemas}:
+    Lógica proposicional,"Proposiciones simples y compuestas, conectivos lógicos, tablas de verdad, equivalencia, implicación, cuantificadores, leyes del álgebra proposicional"
+    Teoría de conjuntos,"Determinación, relaciones entre conjuntos, clases, operaciones, leyes del álgebra de conjuntos"
+    Sistema de números naturales,"Adición, sustracción, multiplicación, división, potenciación, radicación, sistema decimal"
+    Sistema de números enteros,"Operaciones, relaciones de orden, divisibilidad, números primos, factorización única, divisores, MCD, algoritmo de Euclides, MCM"
+    Sistema de números racionales,"Fracciones ordinarias, clases, operaciones, relación de orden, representación decimal"
+    Números reales,"Operaciones, potenciación, radicación, intervalos, valor absoluto, recta real"
+    Razones y proporciones,"Razones aritméticas y geométricas, magnitudes proporcionales, reparto proporcional, regla de tres, porcentajes, progresiones, interés, descuento, mezclas, aleaciones"
+    Estadística,"Medidas de tendencia central, deciles, cuartiles, percentiles, varianza, desviación estándar, factorial, combinaciones, variaciones, permutaciones"
+    Probabilidades,"Fenómeno aleatorio, espacio muestral, asignación de probabilidades, probabilidad condicional, eventos independientes"
+
+  ALGEBRA[9]{tema,subtemas}:
+    Expresiones algebraicas,"Clasificación, grados, monomios, polinomios, operaciones"
+    Productos y cocientes notables,"Productos notables, cocientes notables, término general"
+    Factorización,"Casos de factorización, racionalización, radicación, descomposición de fracciones"
+    Factorial y Binomio de Newton,"Definición factorial, propiedades, coeficiente binomial, desarrollo"
+    Ecuaciones,"Primer y segundo grado, ecuaciones bicuadradas, sistemas de ecuaciones"
+    Inecuaciones,"Lineales, cuadráticas, polinómicas, racionales, métodos de solución"
+    Relaciones y funciones,"Relaciones binarias, funciones reales, dominio, rango, gráficas, tipos de funciones"
+    Logaritmos,"Definición, propiedades, operaciones, ecuaciones logarítmicas"
+    Matrices y determinantes,"Operaciones con matrices, determinantes, límites, derivadas"
+
+  GEOMETRIA[7]{tema,subtemas}:
+    Segmentos y ángulos,"Rectas, ángulos, triángulos, congruencia, desigualdades geométricas, perpendiculares, paralelas"
+    Polígonos y circunferencia,"Cuadriláteros, paralelogramos, trapecios, polígonos, circunferencia, ángulos en la circunferencia"
+    Semejanza de triángulos,"Teorema de Thales, Menelao, criterios de semejanza, teorema de Pitágoras, relaciones métricas"
+    Áreas,"Postulados, áreas de triángulos, cuadriláteros, polígonos, longitud de circunferencia, área del círculo"
+    Poliedros,"Prismas, pirámides, troncos, área lateral, área total, volúmenes"
+    Cuerpos de revolución,"Cilindro, cono, tronco de cono, esfera, áreas y volúmenes"
+    Geometría analítica,"Distancia entre puntos, ecuación de la recta, ecuación de la circunferencia, parábola, elipse, hipérbola"
+
+  TRIGONOMETRIA[7]{tema,subtemas}:
+    Sistemas de medidas angulares,"Sexagesimal, centesimal, radial, longitud de arco, área de sector circular"
+    Razones trigonométricas,"Triángulo rectángulo, ángulos notables 30°, 45°, 60°, 37°, 53°"
+    Ángulo en posición normal,"Círculo trigonométrico, razones en posición normal, reducción al primer cuadrante"
+    Identidades trigonométricas,"Pitagóricas, recíprocas, arcos dobles, arcos compuestos, transformaciones"
+    Ecuaciones trigonométricas,"Elementales, no elementales, sistemas"
+    Resolución de triángulos,"Ley de senos, ley de cosenos, ley de tangentes, ángulos de elevación y depresión"
+    Funciones trigonométricas,"Dominio, rango, gráficas, aplicaciones"
+
+  # ─────────────────────────────────────────────────────────────────────────────
+  # CIENCIAS NATURALES
+  # ─────────────────────────────────────────────────────────────────────────────
+
+  FISICA[13]{tema,subtemas}:
+    Magnitudes físicas,"Fundamentales, derivadas, sistema internacional de unidades, análisis dimensional"
+    Cinemática,"MRU, MRUV, caída libre, movimiento parabólico, movimiento circular"
+    Estática,"Clases de fuerza, equilibrio mecánico, centro de gravedad, resistencia, esfuerzo"
+    Dinámica,"Leyes de Newton, fricción, plano inclinado, fuerza centrípeta"
+    Trabajo energía y potencia,"Trabajo mecánico, potencia, energía cinética, potencial, conservación de energía"
+    Hidrostática,"Presión, presión arterial, principio de Pascal, principio de Arquímedes, flotación"
+    Fenómenos térmicos,"Calor, temperatura, dilatación, cambios de fase, equilibrio térmico, transferencia de calor"
+    Electrostática,"Carga eléctrica, conductores, aisladores, ley de Coulomb, campo eléctrico, potencial eléctrico"
+    Electrodinámica,"Corriente eléctrica, resistencia, ley de Ohm, circuitos serie, paralelo, potencia eléctrica"
+    Electromagnetismo,"Magnetismo, campo magnético, fuerza magnética, inducción electromagnética"
+    Movimiento oscilatorio,"MAS, sistema bloque-resorte, péndulo simple, energía en oscilaciones"
+    Movimiento ondulatorio,"Ondas mecánicas, ondas sonoras, intensidad, luz, propagación, reflexión, refracción"
+    Física moderna,"Hipótesis de Planck, efecto fotoeléctrico, principio de incertidumbre, relatividad especial"
+
+  QUIMICA[14]{tema,subtemas}:
+    Materia y energía,"Propiedades, estados de la materia, estado gaseoso, teoría cinético-molecular, leyes de gases"
+    Teoría atómica,"Modelos atómicos, teoría cuántica, evolución histórica"
+    Estructura atómica,"Átomo, núclidos, iones, isótopos, isóbaros, isótonos"
+    Distribución electrónica,"Números cuánticos principal, secundario, magnético, spin, configuración electrónica"
+    Química nuclear,"Radioactividad, fusión, fisión, transmutación, vida media"
+    Tabla periódica,"Evolución, períodos, grupos, propiedades periódicas, metales, no metales"
+    Enlace químico,"Naturaleza, enlace covalente, iónico, metálico, propiedades, geometría molecular"
+    Funciones químicas inorgánicas,"Óxidos, hidruros, sales binarias, hidróxidos, oxácidos, oxisales, nomenclatura"
+    Unidades químicas,"Átomo-gramo, mol, molécula-gramo, número de Avogadro, condiciones normales"
+    Reacciones químicas,"Ecuaciones químicas, balanceo, tipos: adición, descomposición, sustitución, redox"
+    Estequiometría,"Concepto de mol, peso fórmula, tipos de fórmulas, cálculos estequiométricos, reactivo limitante"
+    Electroquímica,"Celdas galvánicas, conductividad, potenciales de celda, electrólisis"
+    Química orgánica,"Carbono, hibridación sp3, sp2, sp, enlaces sigma y pi, hidrocarburos, grupos funcionales"
+    Contaminación ambiental,"Aire, suelo, agua, capa de ozono, efecto invernadero, gases contaminantes"
+
+  BIOLOGIA_ANATOMIA[20]{tema,subtemas}:
+    Objeto de estudio,"Áreas de la biología, características de seres vivos, niveles de organización, composición química"
+    Método científico,"Metodología científica, actitud científica, fases del trabajo científico"
+    Célula procariótica,"Estructura, función, clasificación taxonómica, importancia de bacterias"
+    Fisiología celular,"Transporte de membrana, metabolismo celular, respiración celular, fotosíntesis"
+    Tejidos,"Tejido epitelial, conectivo, cartilaginoso, óseo, sanguíneo, adiposo, muscular, nervioso"
+    Nutrición,"Tipos en procariotas y eucariotas, fotosíntesis, fase lumínica, ciclo de Calvin"
+    Sistema digestivo,"Tipos de digestión, estructura en vertebrados e invertebrados, digestivo humano, enfermedades"
+    Circulación y transporte,"Transporte en plantas, sistema circulatorio en animales, corazón, sangre"
+    Sistema excretor,"Excreción en animales, sistema urinario humano, riñón, enfermedades"
+    Coordinación química,"Fitohormonas, glándulas endocrinas, hormonas, sistema inmunológico"
+    Sistema nervioso,"Sistema nervioso central, periférico, autónomo, órganos de los sentidos"
+    Reproducción,"Sexual, asexual, ciclo celular, mitosis, meiosis, reproducción en plantas, en humanos"
+    Genética,"Conceptos básicos, experimentos de Mendel, leyes de herencia, dominancia, codominancia"
+    Evolución y biodiversidad,"Origen de la vida, generación espontánea, teoría quimiosintética, teorías evolutivas"
+    Reino Animalia,"Locomoción, sistemas óseo-muscular, clasificación animal"
+    Reino Plantae,"Características, clasificación, plantas alimenticias, seguridad alimentaria, plantas medicinales"
+    Salud y enfermedad,"Higiene, virulencia, patogenicidad, tipos de enfermedades, etapas de enfermedad infecciosa"
+    Ecología,"Dinámica de poblaciones, ecosistema, relaciones interespecíficas, intraespecíficas"
+    Conservación de recursos,"Consumo responsable, áreas naturales protegidas, desarrollo sostenible"
+    Contaminación,"Aire, suelo, agua, impacto ambiental, equilibrio ecológico, gestión ambiental"
+
+  # ─────────────────────────────────────────────────────────────────────────────
+  # HISTORIA
+  # ─────────────────────────────────────────────────────────────────────────────
+
+  HISTORIA_PERU_AUTONOMO[16]{tema,subtemas}:
+    Ciencia histórica,"Metodología, fuentes históricas, periodificación"
+    Poblamiento Americano,"Hipótesis rutas migratorias, teorías origen cultura andina"
+    Primeros Pobladores del Perú,"Periodo lítico, características, evidencias arqueológicas"
+    Periodo Arcaico,"Periodificación, sedentarismo, domesticación, horticultura"
+    Teorías Alta Cultura Peruana,"Origen civilización andina, autoctonismo, difusionismo"
+    Horizonte Temprano I,"Chavín, características, cerámica, arquitectura, religión"
+    Horizonte Temprano II,"Paracas, textilería, trepanaciones, necrópolis"
+    Intermedio Temprano,"Nazca, Moche, Lima, Recuay, Vicús, desarrollo regional"
+    Tiahuanaco,"Ubicación, arquitectura, cerámica, expansión altiplánica"
+    Horizonte Medio,"Wari, urbanismo, integración cultural, caminos"
+    Intermedio Tardío I,"Chimú, Chincha, Chanca, señoríos regionales"
+    Intermedio Tardío II,"Otros reinos, características, economía"
+    Incas Historia y evolución,"Origen mítico e histórico, expansión, cronología"
+    Incas Política y sociedad,"Organización política, ayllu, panacas, clases sociales"
+    Incas Organización económica,"Reciprocidad, redistribución, mita, ayni, minka, agricultura"
+    Incas Religión y cultura,"Dioses, cosmovisión, calendario, arquitectura, quipus, caída del imperio"
+
+  HISTORIA_CONQUISTA_VIRREINATO[16]{tema,subtemas}:
+    Expansión Europea,"Causas económicas, políticas, religiosas, avances tecnológicos"
+    Colón y América,"Viajes de Colón, capitulaciones, descubrimiento"
+    Conquista del Tahuantinsuyo I,"Primer y segundo viaje de Pizarro, capitulación de Toledo"
+    Conquista del Tahuantinsuyo II,"Tercer viaje, captura de Atahualpa, rescate"
+    Marcha al Cusco,"Toma del Cusco, fundación de ciudades"
+    Incas de Vilcabamba,"Manco Inca, resistencia, Túpac Amaru I"
+    Resistencia ideológica,"Taki Onqoy, movimientos mesiánicos"
+    Guerra civil conquistadores,"Almagristas vs pizarristas, encomiendas"
+    Creación Virreinato Perú,"Leyes Nuevas, organización política, virreyes"
+    Política virreinal,"Instituciones: virrey, audiencia, corregimientos, cabildos"
+    Economía virreinal,"Mita minera, encomienda, obrajes, comercio, monopolio"
+    Sociedad virreinal,"República de españoles, república de indios, castas, mestizaje"
+    Cultura y religión virreinal,"Evangelización, educación, arte colonial, barroco"
+    Rebeliones indígenas siglo XVIII,"Juan Santos Atahualpa, Túpac Amaru II, consecuencias"
+    Precursores de independencia,"Reformas borbónicas, ilustración, precursores"
+    Emancipación sudamericana,"Crisis monarquía española, juntas de gobierno"
+
+  REPUBLICA_SIGLO_XIX[16]{tema,subtemas}:
+    Emancipación,"Contexto internacional, Cortes de Cádiz"
+    Precursores independencia,"Separatistas, reformistas, ideología"
+    Corrientes libertadoras del sur,"San Martín, expedición libertadora, desembarco en Paracas"
+    Protectorado,"San Martín protector, reformas, Conferencia de Guayaquil"
+    Corriente libertadora del norte,"Bolívar, campañas de Junín y Ayacucho"
+    Dictadura de Bolívar,"Congreso de Panamá, retiro de Bolívar"
+    Primer militarismo,"Caudillismo, La Mar, Gamarra, Salaverry, Orbegoso"
+    Confederación Perú-Bolivia,"Santa Cruz, oposición chilena, batallas, disolución"
+    Anarquía militar,"Gobiernos efímeros, inestabilidad política"
+    Prosperidad falaz,"Era del guano, consignaciones, consolidación de deuda"
+    Guerra con España,"Causa, combate del Callao, tratado"
+    Fin del primer militarismo,"Castilla, abolición esclavitud y tributo, ferrocarriles"
+    Primer civilismo,"Pardo, contrato Dreyfus, crisis económica"
+    Guerra del Pacífico,"Causas, campañas marítima, terrestre del sur, Lima, Breña"
+    Campaña de la Breña,"Cáceres, resistencia, tratado de Ancón"
+    Reconstrucción Nacional,"Segundo militarismo, Cáceres, contrato Grace"
+
+  HISTORIA_REPUBLICA_SIGLO_XX_XXI[16]{tema,subtemas}:
+    República Aristocrática,"Definición, civilismo, economía de exportación, movimientos sociales"
+    Los Barones del Azúcar,"Oligarquía, haciendas, exportación"
+    Oncenio de Leguía,"Patria Nueva, constitución 1920, obras, endeudamiento, caída"
+    Tercer Militarismo,"Sánchez Cerro, Benavides, represión APRA"
+    Primavera Democrática,"Bustamante, APRA, crisis política"
+    Ochenio de Odría,"Dictadura, obras públicas, ley de seguridad interior"
+    La Convivencia,"Prado, exportaciones, movimientos campesinos"
+    Junta Militar 1962,"Golpe, elecciones, transición"
+    Primer Belaundismo,"Reformas, guerrillas, crisis, golpe 1968"
+    Gobierno de las FF.AA.,"Velasco, reformas estructurales, agraria, industrial, educativa"
+    Segundo Belaundismo y APRA,"Retorno democrático, crisis económica, terrorismo"
+    Decenio de Fujimori I,"Autogolpe, constitución 1993, neoliberalismo, terrorismo"
+    Decenio de Fujimori II,"Reelección, corrupción, caída"
+    Toledo García Humala,"Transición democrática, crecimiento económico"
+    PPK y Vizcarra,"Crisis política, vacancia, Odebrecht"
+    Crisis del bicentenario,"Pandemia, inestabilidad política, protestas"
+
+  HISTORIA_UNIVERSAL[16]{tema,subtemas}:
+    Prehistoria,"Paleolítico, Mesolítico, Neolítico, Edad de Metales"
+    Hominización,"Homínidos, Homo sapiens, evolución, migraciones"
+    Mesopotamia,"Ubicación, sumerios, acadios, babilonios, asirios, aportes"
+    Egipto,"Geografía, períodos, organización, religión, aportes culturales"
+    Grecia I,"Creta, Micenas, época arcaica, polis, Esparta, Atenas"
+    Grecia II,"Guerras Médicas, hegemonía ateniense, Peloponeso, helenismo, aportes"
+    Roma I,"Monarquía, República, instituciones, expansión"
+    Roma II,"Imperio, crisis, caída, derecho romano, legado"
+    Otras civilizaciones antiguas,"Persia, Fenicia, Hebreos, India, China"
+    Feudalismo,"Edad Media, sistema feudal, cruzadas, iglesia"
+    Independencia 13 colonias,"Causas, desarrollo, constitución estadounidense"
+    Revoluciones industriales,"Primera y segunda revolución, consecuencias sociales"
+    Revolución francesa,"Causas, etapas, consecuencias, Napoleón"
+    Primera Guerra Mundial,"Causas, alianzas, desarrollo, consecuencias, Versalles"
+    Segunda Guerra Mundial,"Totalitarismos, causas, desarrollo, Holocausto, consecuencias"
+    Guerra Fría y Globalización,"Bipolaridad, conflictos, caída URSS, mundo actual"
+
+  # ─────────────────────────────────────────────────────────────────────────────
+  # GEOGRAFÍA
+  # ─────────────────────────────────────────────────────────────────────────────
+
+  GEOGRAFIA_GENERAL[16]{tema,subtemas}:
+    Ciencias auxiliares y universo,"Geografía, ramas, universo, teorías origen"
+    Sistema Solar,"Sol, planetas, satélites, asteroides, cometas"
+    Luna y Tierra,"Movimientos lunares, eclipses, estructura terrestre, movimientos"
+    Geodesia,"Forma de la Tierra, líneas imaginarias, coordenadas geográficas"
+    Husos horarios,"Zonas horarias, línea internacional del tiempo, cálculos"
+    Cartografía,"Mapas, proyecciones, escalas, símbolos"
+    Geósfera y eras geológicas,"Capas terrestres, eras, fósiles, deriva continental"
+    Tectonismo y sismología,"Placas tectónicas, sismos, volcanes, cinturón de fuego"
+    Geodinámica interna,"Orogénesis, epirogénesis, vulcanismo, terremotos"
+    Geodinámica externa,"Erosión, meteorización, agentes geológicos externos"
+    Atmósfera,"Capas, composición, fenómenos atmosféricos"
+    Climatología,"Elementos y factores del clima, clasificaciones climáticas"
+    Cambio climático,"Calentamiento global, efecto invernadero, consecuencias"
+    Hidrósfera,"Océanos, mares, lagos, ríos, ciclo del agua, corrientes"
+    Geografía política,"Estados, fronteras, organismos internacionales"
+    Demografía,"Población mundial, crecimiento, migraciones, indicadores"
+
+  GEOGRAFIA_PERU[16]{tema,subtemas}:
+    Perú ubicación y límites,"Tratados, puntos extremos, fronteras"
+    Morfología submarina,"Zócalo continental, talud, fosa marina"
+    Morfología de la costa,"Valles, pampas, tablazos, desiertos, lomas"
+    Morfología de la sierra,"Cordilleras, mesetas, valles interandinos, pasos, nevados"
+    Morfología de la selva,"Selva alta, selva baja, pongos, tahuampas"
+    Vertiente del Pacífico,"Características, ríos principales, cuencas"
+    Vertiente del Amazonas,"Ríos, navegabilidad, importancia"
+    Hoya del Titicaca,"Lago Titicaca, ríos, características, importancia"
+    8 regiones naturales,"Chala, Yunga, Quechua, Suni, Puna, Janca, Rupa Rupa, Omagua"
+    11 ecorregiones,"Brack, características, biodiversidad"
+    Áreas naturales protegidas,"Parques, santuarios, reservas nacionales, SERNANP"
+    Geografía económica minería,"Yacimientos, minería metálica, no metálica, hidrocarburos"
+    Geografía económica agricultura,"Agricultura costa, sierra, selva, principales cultivos, ganadería"
+    Demografía peruana,"Población, distribución, migraciones, censos"
+    Geopolítica y Antártida,"Posición estratégica, base Machu Picchu, tratado antártico"
+    Geografía regional de Puno,"Ubicación, relieve, clima, recursos, población, provincias"
+
+  # ─────────────────────────────────────────────────────────────────────────────
+  # ECONOMÍA
+  # ─────────────────────────────────────────────────────────────────────────────
+
+  MICROECONOMIA[16]{tema,subtemas}:
+    Economía como ciencia,"Definición, campo, método, objeto de estudio"
+    Necesidades humanas,"Clasificación, características, satisfactores"
+    Bienes y servicios,"Clasificación, características, utilidad"
+    Proceso económico,"Fases: producción, circulación, distribución, consumo, inversión"
+    Producción y productividad,"Factores productivos, función de producción, rendimientos"
+    Costo de producción,"Costos fijos, variables, totales, marginales, punto de equilibrio"
+    Factores productivos trabajo,"Trabajo, PEA, desempleo, salario"
+    Factores productivos capital,"Capital, tipos, depreciación, inversión"
+    Naturaleza y Estado,"Recursos naturales, rol del Estado en economía"
+    Factores productivos empresa,"Empresa, tipos, organización, emprendimiento"
+    Circulación,"Flujo circular de la economía, agentes económicos"
+    Mercado,"Definición, tipos, estructura de mercado, competencia"
+    Oferta,"Ley de oferta, determinantes, curva de oferta"
+    Demanda,"Ley de demanda, determinantes, curva de demanda"
+    Equilibrio de mercado,"Precio de equilibrio, excedentes, escasez"
+    Elasticidades,"Elasticidad precio, ingreso, cruzada, aplicaciones"
+
+  MACROECONOMIA[16]{tema,subtemas}:
+    El dinero,"Origen, funciones, características, tipos, valor del dinero"
+    Fenómenos monetarios,"Inflación, deflación, devaluación, tipos de inflación"
+    Crédito,"Sistema crediticio, tipos de crédito, tasas de interés"
+    Sistema financiero,"Instituciones financieras, SBS, banca múltiple, mercado de valores"
+    Comercio internacional,"Exportación, importación, ventajas comparativas, TLC"
+    Balanza de pagos,"Estructura, balanza comercial, cuenta corriente, cuenta financiera"
+    Cuentas nacionales de producto,"PBI, PNB, métodos de cálculo"
+    Cuentas nacionales de ingreso,"Ingreso nacional, renta per cápita, distribución del ingreso"
+    Sistema tributario,"Tributos, impuestos, SUNAT, presión tributaria"
+    Presupuesto público,"Ingresos, gastos, déficit, superávit, MEF"
+    Ciclos económicos,"Fases, recesión, expansión, indicadores"
+    Crisis económica,"Causas, tipos, crisis financieras, historia"
+    Escuelas económicas,"Mercantilismo, fisiocracia, clásica, marxista, keynesiana, neoliberal"
+    Deuda pública,"Deuda interna, externa, servicio de deuda, reestructuración"
+    Organismos financieros internacionales,"FMI, Banco Mundial, BID, CAF"
+    Globalización,"Características, ventajas, desventajas, bloques económicos"
+
+  # ─────────────────────────────────────────────────────────────────────────────
+  # EDUCACIÓN CÍVICA
+  # ─────────────────────────────────────────────────────────────────────────────
+
+  CIVICA_CODIGO_CIVIL[16]{tema,subtemas}:
+    Introducción al Código Civil,"Historia, estructura, principios, libro de personas"
+    Familia en sistema jurídico,"Concepto jurídico, vínculos, fuentes, importancia"
+    Clases de familia,"Nuclear, extensa, monoparental, reconstituida, desintegración familiar"
+    Parentesco,"Consanguinidad, afinidad, civil, líneas, grados"
+    Patria potestad y tutela,"Definición, ejercicio, suspensión, extinción, tutela"
+    Curatela y Consejo de Familia,"Curatela, clases, consejo de familia, funciones"
+    Matrimonio civil,"Requisitos, impedimentos, celebración, deberes y derechos"
+    Divorcio y separación,"Causales, tipos, efectos, separación de cuerpos"
+    Unión de hecho,"Requisitos, efectos, reconocimiento, derechos"
+    Régimen de sucesiones I,"Sucesión, clases, herederos, legítima, testamento"
+    Régimen de sucesiones II,"Sucesión intestada, representación, indignidad"
+    El concebido y persona natural,"Derechos del concebido, capacidad, nombre, domicilio"
+    Persona jurídica,"Definición, clasificación, asociación, fundación, comité"
+    Persona humana y derechos fundamentales,"Dignidad, derechos personalísimos, vida, integridad"
+    Generación de derechos,"Primera, segunda, tercera generación, derechos difusos"
+    Participación y control ciudadano,"Mecanismos de participación, referéndum, revocatoria, rendición de cuentas"
+
+  CIVICA_CONSTITUCION[16]{tema,subtemas}:
+    Constitución e historia,"Definición, partes, historia constitucional peruana, constituciones"
+    Persona y sociedad,"Derechos fundamentales, deberes, garantías constitucionales"
+    Estado y nación,"Elementos del Estado, nación, territorio, soberanía"
+    Régimen económico,"Economía social de mercado, propiedad, empresa, trabajo"
+    Poder Legislativo,"Congreso, funciones, inmunidad, proceso legislativo, comisiones"
+    Poder Ejecutivo,"Presidente, funciones, Consejo de Ministros, ministerios"
+    Poder Judicial,"Organización, principios, instancias, CNM, Academia de la Magistratura"
+    Sistema electoral,"JNE, ONPE, RENIEC, proceso electoral, partidos políticos"
+    Sistema económico constitucional,"BCR, SBS, política monetaria, fiscal"
+    Sistema judicial,"Tribunal Constitucional, garantías constitucionales, hábeas corpus, amparo"
+    Sistema de Defensa Nacional,"SIDENA, FF.AA., PNP, seguridad ciudadana"
+    Gobiernos regionales y locales,"Descentralización, regiones, municipalidades, competencias"
+    Garantías constitucionales,"Hábeas corpus, amparo, hábeas data, acción de inconstitucionalidad"
+    ONU,"Origen, órganos, funciones, tratados internacionales"
+    OEA,"Origen, órganos, carta democrática, CIDH"
+    CAN y organismos regionales,"Comunidad Andina, MERCOSUR, APEC, integración latinoamericana"
+
+  # ─────────────────────────────────────────────────────────────────────────────
+  # COMUNICACIÓN Y LITERATURA
+  # ─────────────────────────────────────────────────────────────────────────────
+
+  COMUNICACION[16]{tema,subtemas}:
+    Proceso comunicativo,"Elementos, tipos de comunicación, barreras, funciones"
+    El lenguaje funciones,"Definición, propiedades, funciones: representativa, expresiva, apelativa, fática, poética, metalingüística"
+    Planos del lenguaje,"Lengua, habla, norma, niveles de la lengua"
+    Categorías gramaticales I,"Sustantivo, determinantes, adjetivo, clasificación, funciones"
+    Categorías gramaticales II,"Verbo, adverbio, preposición, conjunción, interjección"
+    Sílaba y concurrencia vocálica,"División silábica, diptongo, triptongo, hiato"
+    Acentuación gráfica,"Reglas generales, tilde tópica, palabras agudas, graves, esdrújulas"
+    Acentuación casos especiales,"Tilde diacrítica, tilde enfática, tilde en compuestas"
+    Sintagma nominal,"Estructura, núcleo, modificadores, aposición"
+    Sintagma verbal,"Estructura, predicado, complementos, oraciones"
+    Signos de puntuación,"Punto, coma, punto y coma, dos puntos, comillas, paréntesis, raya"
+    Texto propiedades,"Coherencia, cohesión, adecuación, unidad textual"
+    Mecanismos de cohesión,"Referencia, sustitución, elipsis, conectores"
+    Texto narrativo y descriptivo,"Características, estructura, tipos, recursos"
+    Texto argumentativo y periodístico,"Estructura argumentativa, artículo, editorial, crónica"
+    Texto instructivo y expositivo,"Características, estructura, tipos, comprensión"
+
+  LITERATURA[16]{tema,subtemas}:
+    Teoría literaria,"Literatura oral, textos literarios y no literarios, géneros, figuras literarias"
+    Clasicismo,"Literatura griega, Homero, Ilíada, Odisea, tragedia, Sófocles"
+    Romanticismo europeo,"Características, Goethe, Víctor Hugo, Bécquer"
+    Realismo,"Características, Dostoievski, Flaubert, Tolstói"
+    Vanguardismo europeo,"Ismos, surrealismo, dadaísmo, futurismo"
+    Siglo de Oro español,"Renacimiento, Barroco, Cervantes, Quijote, Góngora, Quevedo"
+    Romanticismo hispanoamericano,"Características, Jorge Isaacs, María"
+    Vanguardismo hispanoamericano,"Características, movimientos"
+    Boom Latinoamericano,"Realismo mágico, García Márquez, Vargas Llosa, Cortázar"
+    Romanticismo peruano,"Características, Ricardo Palma, Tradiciones Peruanas"
+    Posmodernismo peruano,"Características, representantes"
+    Vanguardismo peruano,"Vallejo, Trilce, poesía vanguardista"
+    Indigenismo I,"Características, López Albújar, Cuentos Andinos"
+    Indigenismo II,"Ciro Alegría, El mundo es ancho y ajeno"
+    Indigenismo III,"José María Arguedas, Los ríos profundos, Todas las sangres"
+    Urbanismo,"Julio Ramón Ribeyro, Mario Vargas Llosa, narrativa urbana"
+
+  # ─────────────────────────────────────────────────────────────────────────────
+  # PSICOLOGÍA Y FILOSOFÍA
+  # ─────────────────────────────────────────────────────────────────────────────
+
+  PSICOLOGIA[16]{tema,subtemas}:
+    Generalidades de Psicología,"Definición, objeto de estudio, ramas, importancia"
+    Historia de la Psicología,"Etapas, escuelas: estructuralismo, funcionalismo, conductismo, psicoanálisis, humanismo, cognitiva"
+    Atención,"Definición, tipos, características, factores, trastornos"
+    Actividad consciente,"Conciencia, estados, bases neurológicas"
+    Sensación,"Definición, proceso sensorial, umbrales, tipos de sensaciones"
+    Percepción,"Definición, características, leyes de la Gestalt, ilusiones"
+    Memoria,"Definición, procesos, tipos, trastornos, estrategias de mejora"
+    Inteligencia,"Definición, teorías, tipos de inteligencia, medición, CI"
+    Pensamiento,"Definición, tipos, operaciones, resolución de problemas, creatividad"
+    Procesos conativos,"Motivación, tipos, teorías, pirámide de Maslow"
+    Procesos afectivos,"Emociones, sentimientos, pasiones, estados de ánimo"
+    Aprendizaje,"Definición, teorías: condicionamiento clásico, operante, social, cognitivo"
+    Desarrollo humano,"Etapas del desarrollo, Piaget, Erikson, adolescencia"
+    Personalidad,"Definición, teorías, temperamento, carácter, rasgos"
+    Psicoanálisis,"Freud, inconsciente, estructura de la personalidad, mecanismos de defensa"
+    Salud mental,"Trastornos mentales, ansiedad, depresión, prevención, higiene mental"
+
+  FILOSOFIA[16]{tema,subtemas}:
+    Filosofía antigua ontológica,"Origen de la filosofía, presocráticos, Tales, Heráclito, Parménides"
+    Filosofía antigua helenística,"Sócrates, Platón, Aristóteles, escuelas helenísticas"
+    Filosofía medieval,"Patrística, San Agustín, Escolástica, Santo Tomás"
+    Filosofía moderna,"Racionalismo, Descartes, Empirismo, Locke, Hume, Kant"
+    Filosofía contemporánea,"Positivismo, marxismo, existencialismo, fenomenología"
+    Filosofía latinoamericana y peruana,"Escolástica colonial, Ilustración, Positivismo, indigenismo filosófico"
+    Gnoseología,"Teoría del conocimiento, origen, posibilidad, esencia"
+    Problema del conocimiento,"Dogmatismo, escepticismo, relativismo, criticismo"
+    Epistemología,"Ciencia, características, clasificación, método científico"
+    Teorías de la ciencia,"Positivismo lógico, falsacionismo, paradigmas, Kuhn"
+    Axiología,"Teoría de los valores, características, clasificación, objetivismo, subjetivismo"
+    Problema de los valores,"Relativismo, absolutismo, jerarquía de valores"
+    Ética,"Definición, moral, normas, acto moral, libertad, responsabilidad"
+    Antropología filosófica,"Ser humano, naturaleza humana, existencia, libertad, trascendencia"
+    Filosofía política,"Estado, poder, justicia, democracia, ideologías"
+    Recapitulación,"Integración de temas, problemas filosóficos fundamentales"
+
+  # ─────────────────────────────────────────────────────────────────────────────
+  # IDIOMAS
+  # ─────────────────────────────────────────────────────────────────────────────
+
+  INGLES[14]{tema,subtemas}:
+    Verb tenses,"Past, present, future, time expressions, regular, irregular verbs"
+    Short answers,"Modal verbs: can, could, may, might, must, should, yes/no questions"
+    Relatives,"Object pronouns, relative pronouns: who, that, whose, where, which"
+    Adverbs,"Affirmation, denial, frequency, place, time, manner"
+    Adjectives,"Qualifiers, comparatives, superlatives, irregular forms"
+    Countable and uncountable nouns,"Quantifiers, partitives, some, any, much, many"
+    Prepositions,"In, on, at, about, above, after, among, before, behind, below, between"
+    Reported speech,"Direct to indirect, present, past, present perfect changes"
+    Tag questions,"Formation, usage, time clauses"
+    Passive voice,"Active to passive, direct, indirect object, by agent"
+    Describing a trip,"Vocabulary, phrases, countries, nationalities, travel expressions"
+    Sentences,"Affirmative, negative, interrogative structures, word order"
+    Goals and plans,"Expressions of plans, ambitions, going to, will, want to"
+    Weather and seasons,"Vocabulary, descriptions, climate expressions"
+
+  QUECHUA_AYMARA[9]{tema,subtemas}:
+    Formas conversacionales,"Saludos, despedidas, preguntas, respuestas cotidianas"
+    Pronombres,"Personales, demostrativos en quechua y aymara"
+    Formación de palabras,"Raíces, sufijos derivacionales, sufijos de caso"
+    Elementos temporales,"Días de la semana, meses, estaciones, números cardinales y ordinales"
+    Cuerpo humano,"Partes del cuerpo, órganos, términos médicos básicos"
+    Elementos geográficos,"Lugares, objetos, elementos naturales, topónimos"
+    Animales,"Domésticos, silvestres, fauna andina"
+    Morfosintaxis,"Nombres, verbos, adjetivos, adverbios, preposiciones, conectivos"
+    Tipos de textos,"Orales, escritos, narrativa andina, tradición oral"
